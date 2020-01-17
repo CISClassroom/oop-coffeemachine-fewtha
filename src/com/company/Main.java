@@ -2,9 +2,11 @@ package com.company;
 
 public class Main {
 
-    public static void main(String[] args) {
-	// write your code here
+    public static  void  main(String [] arge ){
         CoffeeMachine coffeeMachine = new CoffeeMachine();
-        coffeeMachine.Makecoffee( iAmericano : 6);
+        Mocha Mocha = new Mocha();
+        Capuccino Capuccino = new Capuccino();
+        Espresso Espressp = new Espresso();
+        Latte Latte = new Latte();
     }
 }
